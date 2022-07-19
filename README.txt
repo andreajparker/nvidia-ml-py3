@@ -6,6 +6,11 @@ pyNVML
 Patched to support Python 3 (and Python 2)
 ***
 
+
+NVML API Reference Guide - Last updated January 30, 2022
+
+Includes updated error codes as of Q1 2022.
+
 ------------------------------------------------
 Python bindings to the NVIDIA Management Library
 ------------------------------------------------
